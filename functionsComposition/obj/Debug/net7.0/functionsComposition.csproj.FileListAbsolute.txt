@@ -1,0 +1,14 @@
+C:\Users\ecs\temp\purefunctions\functionsComposition\bin\Debug\net7.0\functionsComposition.exe
+C:\Users\ecs\temp\purefunctions\functionsComposition\bin\Debug\net7.0\functionsComposition.deps.json
+C:\Users\ecs\temp\purefunctions\functionsComposition\bin\Debug\net7.0\functionsComposition.runtimeconfig.json
+C:\Users\ecs\temp\purefunctions\functionsComposition\bin\Debug\net7.0\functionsComposition.dll
+C:\Users\ecs\temp\purefunctions\functionsComposition\bin\Debug\net7.0\functionsComposition.pdb
+C:\Users\ecs\temp\purefunctions\functionsComposition\obj\Debug\net7.0\functionsComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecs\temp\purefunctions\functionsComposition\obj\Debug\net7.0\functionsComposition.AssemblyInfoInputs.cache
+C:\Users\ecs\temp\purefunctions\functionsComposition\obj\Debug\net7.0\functionsComposition.AssemblyInfo.cs
+C:\Users\ecs\temp\purefunctions\functionsComposition\obj\Debug\net7.0\functionsComposition.csproj.CoreCompileInputs.cache
+C:\Users\ecs\temp\purefunctions\functionsComposition\obj\Debug\net7.0\functionsComposition.dll
+C:\Users\ecs\temp\purefunctions\functionsComposition\obj\Debug\net7.0\refint\functionsComposition.dll
+C:\Users\ecs\temp\purefunctions\functionsComposition\obj\Debug\net7.0\functionsComposition.pdb
+C:\Users\ecs\temp\purefunctions\functionsComposition\obj\Debug\net7.0\functionsComposition.genruntimeconfig.cache
+C:\Users\ecs\temp\purefunctions\functionsComposition\obj\Debug\net7.0\ref\functionsComposition.dll

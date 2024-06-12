@@ -1,0 +1,14 @@
+C:\Users\ecs\temp\purefunctions\purefunctions\bin\Debug\net7.0\purefunctions.exe
+C:\Users\ecs\temp\purefunctions\purefunctions\bin\Debug\net7.0\purefunctions.deps.json
+C:\Users\ecs\temp\purefunctions\purefunctions\bin\Debug\net7.0\purefunctions.runtimeconfig.json
+C:\Users\ecs\temp\purefunctions\purefunctions\bin\Debug\net7.0\purefunctions.dll
+C:\Users\ecs\temp\purefunctions\purefunctions\bin\Debug\net7.0\purefunctions.pdb
+C:\Users\ecs\temp\purefunctions\purefunctions\obj\Debug\net7.0\purefunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecs\temp\purefunctions\purefunctions\obj\Debug\net7.0\purefunctions.AssemblyInfoInputs.cache
+C:\Users\ecs\temp\purefunctions\purefunctions\obj\Debug\net7.0\purefunctions.AssemblyInfo.cs
+C:\Users\ecs\temp\purefunctions\purefunctions\obj\Debug\net7.0\purefunctions.csproj.CoreCompileInputs.cache
+C:\Users\ecs\temp\purefunctions\purefunctions\obj\Debug\net7.0\purefunctions.dll
+C:\Users\ecs\temp\purefunctions\purefunctions\obj\Debug\net7.0\refint\purefunctions.dll
+C:\Users\ecs\temp\purefunctions\purefunctions\obj\Debug\net7.0\purefunctions.pdb
+C:\Users\ecs\temp\purefunctions\purefunctions\obj\Debug\net7.0\purefunctions.genruntimeconfig.cache
+C:\Users\ecs\temp\purefunctions\purefunctions\obj\Debug\net7.0\ref\purefunctions.dll
