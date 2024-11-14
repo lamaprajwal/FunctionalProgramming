@@ -1,0 +1,14 @@
+C:\Users\ecs\temp\purefunctions\firstClassFunc\bin\Debug\net7.0\firstClassFunc.exe
+C:\Users\ecs\temp\purefunctions\firstClassFunc\bin\Debug\net7.0\firstClassFunc.deps.json
+C:\Users\ecs\temp\purefunctions\firstClassFunc\bin\Debug\net7.0\firstClassFunc.runtimeconfig.json
+C:\Users\ecs\temp\purefunctions\firstClassFunc\bin\Debug\net7.0\firstClassFunc.dll
+C:\Users\ecs\temp\purefunctions\firstClassFunc\bin\Debug\net7.0\firstClassFunc.pdb
+C:\Users\ecs\temp\purefunctions\firstClassFunc\obj\Debug\net7.0\firstClassFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecs\temp\purefunctions\firstClassFunc\obj\Debug\net7.0\firstClassFunc.AssemblyInfoInputs.cache
+C:\Users\ecs\temp\purefunctions\firstClassFunc\obj\Debug\net7.0\firstClassFunc.AssemblyInfo.cs
+C:\Users\ecs\temp\purefunctions\firstClassFunc\obj\Debug\net7.0\firstClassFunc.csproj.CoreCompileInputs.cache
+C:\Users\ecs\temp\purefunctions\firstClassFunc\obj\Debug\net7.0\firstClassFunc.dll
+C:\Users\ecs\temp\purefunctions\firstClassFunc\obj\Debug\net7.0\refint\firstClassFunc.dll
+C:\Users\ecs\temp\purefunctions\firstClassFunc\obj\Debug\net7.0\firstClassFunc.pdb
+C:\Users\ecs\temp\purefunctions\firstClassFunc\obj\Debug\net7.0\firstClassFunc.genruntimeconfig.cache
+C:\Users\ecs\temp\purefunctions\firstClassFunc\obj\Debug\net7.0\ref\firstClassFunc.dll
